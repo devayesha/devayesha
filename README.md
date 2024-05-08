@@ -1,6 +1,7 @@
+![Professional Web Designer Developer And Wordpress Expert](https://media.licdn.com/dms/image/D5616AQEz8sc0ysDFDA/profile-displaybackgroundimage-shrink_350_1400/0/1703610004955?e=1720656000&v=beta&t=0UX6Mpo7HIHCnzvom1RJsPD6H8eg6jw_B4EAvYllXM8)
+
 ### Hi there 👋, My name is Ayesha Akter
 #### Professional Web Designer Developer And Wordpress Expert
-![Professional Web Designer Developer And Wordpress Expert](https://media.licdn.com/dms/image/D5616AQEz8sc0ysDFDA/profile-displaybackgroundimage-shrink_350_1400/0/1703610004955?e=1720656000&v=beta&t=0UX6Mpo7HIHCnzvom1RJsPD6H8eg6jw_B4EAvYllXM8)
 
 🚀 Passionate Web Designer, Developer, and WordPress Expert
 
@@ -29,7 +30,7 @@ Skills: HTML /  CSS  / JAVASCRIPT  /  REACT / BOOTSTRAP / JQUERY / PHP / MYSQL /
 - 💬 Ask me about Web Designer, Web Developer and WordPress Development , eCommerce Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/devayesha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ayesha-akter-068492261//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@FreedomITInstitution)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://freedomitinstitutions.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/devayesha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayesha-akter-068492261//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@FreedomITInstitution)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://freedomitinstitutions.com/)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
